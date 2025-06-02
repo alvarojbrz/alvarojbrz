@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 
 # 👋 Welcome to my GitHub profile!
 
-I'm a **Data Scientist**, interested in Finance, with **3 years of experience** in:
-
-- Data analysis  
-- Data integration and ETL  
-- Building dashboards and management reports  
-
-What drives me is solving problems through data. I love turning complex information into clear, actionable insights that help people make better decisions.
-
----
 
 ## 📚 A bit of my background
 
@@ -62,11 +53,6 @@ That experience shaped how I think: with logic, structure, and persistence. It t
 
 ---
 
-## 🧠 My approach
-
-More than just technical skills, my strong background in mathematics helps me approach challenges in a structured and efficient way. I enjoy simplifying complexity and building solutions that are both smart and useful.
-
----
 
 
 
