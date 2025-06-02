@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 Before diving into the data world, I was a **Math Olympiad competitor** (OBMEP, OBM, OPRM).  
 That experience shaped how I think: with logic, structure, and persistence. It taught me how to break down tough problems — a skill I now bring into every project I work on.
 
----
 
 ## 🧰 Tech Stack & Tools
 
@@ -50,8 +49,6 @@ That experience shaped how I think: with logic, structure, and persistence. It t
 ### Cloud
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-
----
 
 
 
