@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Welcome to my GitHub profile!
-I am a Software Developer focused on AI aplications on Web Development.
+I am a Software Developer focused on AI and Web Development.
 
 ## 📚 A bit of my background
 
